@@ -1,6 +1,6 @@
 # Expanding Slides
 
-Click [HERE](sunrise-stories.netlify.app) to see the application in action!
+Click [HERE](https://sunrise-stories.netlify.app/) to see the application in action!
 
 ## Description
 
