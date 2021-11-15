@@ -1,8 +1,6 @@
 # Expanding Slides
 
-Find a link to my Sunrise Stories aka Expanding Slides below:
-
-*sunrise-stories.netlify.app*
+Click [HERE](sunrise-stories.netlify.app) to see the application in action!
 
 ## Description
 
