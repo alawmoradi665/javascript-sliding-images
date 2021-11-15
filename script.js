@@ -13,7 +13,7 @@ panels.forEach(panel => {
     })
 })
 
-/* -här skapas the function, eller method i ruby,   som GÖR att active faktiskt försvinner när en ny klickas på
+/* -här skapas the function, som GÖR att active försvinner när en ny klickas på
     -samma forEach loop som använder panel (behövs ingen parentes om det bara är en class som loopas igenom, annars lägg till parentes
     -inne i loopen används remove, som finns i JS, och skickar in active för att visa vad som tas bort */
 
